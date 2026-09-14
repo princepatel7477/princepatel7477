@@ -162,21 +162,27 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
 
+<a href="https://github-readme-stats.vercel.app/api?username=princepatel7477&show_icons=true&locale=en&include_all_commits=true&count_private=true">
+
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=princepatel7477&show_icons=true&locale=en&include_all_commits=true&count_private=true" 
+  src="https://github-readme-stats.vercel.app/api?username=princepatel7477&show_icons=true&locale=en&include_all_commits=true&count_private=true"
   alt="Prince Patel GitHub Stats"
   width="48%"
 />
 
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs?username=princepatel7477&show_icons=true&locale=en&layout=compact&langs_count=8">
+
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=princepatel7477&show_icons=true&locale=en&layout=compact&langs_count=8" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=princepatel7477&show_icons=true&locale=en&layout=compact&langs_count=8"
   alt="Prince Patel Top Languages"
   width="48%"
 />
+
+</a>
 
 </p>
 
