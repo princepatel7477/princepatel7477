@@ -28,7 +28,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/prince-patel-/" target="_blank">
+<a href="[https://www.linkedin.com/in/prince-patel-/](https://www.linkedin.com/in/prince-patel-37235732a/)" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
     alt="LinkedIn" 
@@ -46,7 +46,7 @@
   />
 </a>
 
-<a href="https://leetcode.com/prince-patel/" target="_blank">
+<a href="[https://leetcode.com/prince-patel/](https://leetcode.com/u/princepatel123/)" target="_blank">
   <img 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
     alt="LeetCode" 
