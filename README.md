@@ -422,7 +422,7 @@ I'm continuously building new projects while learning Full Stack Development.
 
 <p align="center">
 
-<a href="https://pp689649-cmyk.github.io/Prince.Protfolio/">
+<a href="https://princepatel7477.github.io/Prince.Protfolio/">
 
 <img
 src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-0e75b6?style=for-the-badge"
