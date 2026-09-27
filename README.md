@@ -239,31 +239,10 @@ width="100%"/>
 
 ---
 
-# 📊 Commit Graph
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=princepatel7477&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-alt="Prince Patel Commit Graph"
-width="100%"/>
-
-</p>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=princepatel7477&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-alt="Prince Patel GitHub Trophies"
-width="100%"/>
-
-</p>
-
----
 
 # 🐍 Contribution Snake
 
