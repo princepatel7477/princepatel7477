@@ -12,7 +12,7 @@
 
 <h1>👋 Hi, I'm Prince Patel</h1>
 
-<h3> 🚀 MERN Stack Developer| Java & DSA | UI/UX Enthusiast</h3>
+<h3> 🚀 MERN Stack Developer | Java & DSA | UI/UX Enthusiast</h3>
 
 <p>
   <a href="https://github.com/princepatel7477">
