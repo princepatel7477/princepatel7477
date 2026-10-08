@@ -183,18 +183,19 @@ Hi! I'm **Prince Patel**, a passionate **Full Stack Developer from India** who e
 
 <p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=princepatel7477&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight"
-height="180"
-alt="Prince Patel GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=princepatel7477&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    alt="Prince Patel GitHub Stats"
+    width="49%"
+  />
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepatel7477&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
-height="180"
-alt="Prince Patel Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=princepatel7477&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Prince Patel Top Languages"
+    width="49%"
+  />
 
 </p>
-
 ---
 
 # 📦 GitHub Overview
