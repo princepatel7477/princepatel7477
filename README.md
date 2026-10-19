@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <a href="https://pp689649-cmyk.github.io/Prince.Protfolio/">
+  <a href="https://princepatel7477.github.io/Prince.Protfolio/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-0e75b6?style=for-the-badge" alt="Portfolio"/>
   </a>
 
