@@ -247,14 +247,13 @@ width="100%"/>
 
 # 🐍 Contribution Snake
 
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
 <p align="center">
-
-<img
-src="https://raw.githubusercontent.com/princepatel7477/princepatel7477/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="100%"/>
-
+  <img src="https://raw.githubusercontent.com/princepatel7477/princepatel7477/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
 </p>
+
 
 ---
 
